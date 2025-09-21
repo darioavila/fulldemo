@@ -1,0 +1,1 @@
+using fulldemoSrv as service from '../../srv/service';
